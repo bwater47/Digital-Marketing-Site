@@ -77,7 +77,7 @@ a {
     max-height: 200px;
 }
 /*Styles the search engine optimization text content*/
-.search-engine-optimization h2 {
+.search-engine-optimization h2,.online-reputation-management h2,.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -93,11 +93,6 @@ a {
 .online-reputation-management img {
     max-height: 200px;
 }
-/*Styles the online reputation text content*/
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 /*Positions the display for the content held in the social media marketing display*/
 .social-media-marketing {
     margin-bottom: 20px;
@@ -109,11 +104,6 @@ a {
 /*Positions the social media marketing image*/
 .social-media-marketing img {
     max-height: 200px;
-}
-/*Styles the social media marketing text content*/
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 /*Floats an image with this attribute to the left*/
 .float-left {
@@ -191,4 +181,5 @@ a {
 /*Styles the footer displays font size*/
 .footer h4 {
     font-size: 20px;
+    color: black;
 }

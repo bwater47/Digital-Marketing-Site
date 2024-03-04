@@ -1,8 +1,8 @@
 # Horiseon
-Choose a self-explaining name for your project.
+Week 1 Challenge
 
 ## Description
-You can click on the contents inside of the navigation menu, and it will take you to the menu that you chose. The navigation menu is located at the top of the website, and it is reactive to the cursor. You can see information about SEO, Online Reputation Management, and Social Media Marketing.
+You can click on the contents inside of the header, and it will take you to the menu that you chose. The header is located at the top of the website, and it is reactive to the cursor. You can see information about SEO, Online Reputation Management, and Social Media Marketing. There is also a benefits display on the right of the site for more information.
 
 ## Badges
 Shields.io

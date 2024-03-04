@@ -8,6 +8,7 @@ You can click on the contents inside of the header, and it will take you to the 
 Shields.io
 
 ## Visuals
+Link: <a href="https://bwater47.github.io/Week-1-Challenge/">Live Page</a>
 Screenshot: 
 <img src="assets/images/Live-Page-1.png" alt="live page 1">
 <img src="assets/images/Live-Page-2.png" alt="live page 2">

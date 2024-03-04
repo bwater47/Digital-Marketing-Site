@@ -8,10 +8,13 @@ You can click on the contents inside of the header, and it will take you to the 
 Shields.io
 
 ## Visuals
-Screenshot coming soon.
+Screenshot: 
+<img src="assets/images/Live-Page-1.png" alt="live page 1">
+<img src="assets/images/Live-Page-2.png" alt="live page 2">
+<img src="assets/images/Live-Page-3.png" alt="live page 3">
 
 ## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+N/A
 
 ## Usage
 You may use the website for gaining information on SEO, Online Reputation Management, and Social Media Marketing.
@@ -20,7 +23,7 @@ You may use the website for gaining information on SEO, Online Reputation Manage
 You can contact support through email by emailing brennw47@gmail.com.
 
 ## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+N/A
 
 ## Contributing
 Contributing is allowed if you're in the U of U Coding Bootcamp. Contact me on on the slack channel for information.

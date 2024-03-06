@@ -30,10 +30,15 @@ N/A
 Contributing is allowed if you're in the U of U Coding Bootcamp. Contact me on on the slack channel for information.
 
 ## Authors and acknowledgment
-Thank you Horiseon Social Solution Services, Inc. for hiring me on to the project.
+Bootcamp Spot. (03/05/2024). https://bootcampspot.com/
 
-## License
-N/A
+HTML semantic elements. (03/05/2024). https://www.w3schools.com/html/html5_semantic_elements.asp
+
+Chatgpt. ChatGPT. (03/05/2024). https://openai.com/chatgpt
+
+• Please note: While ChatGPT was utilized to generate dialog content for the README file, it was not involved in the generation of any code, HTML edits, CSS edits, or other assets within the repository apart from this README specifically.
+
+• All other sources, links, and information utilized within the project were obtained from the provided sources mentioned above. This includes class materials, modules, TA guidance, instructor-provided resources, as well as communication through platforms such as Slack or Discord. Additionally, numerous links and resources were provided within the assignment instructions and demonstrated during class sessions.
 
 ## Project status
 N/A

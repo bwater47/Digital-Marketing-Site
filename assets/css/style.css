@@ -3,12 +3,12 @@
     padding: 0;
     margin: 0;
 }
-/*Body shows a unique background color with a unique text color for the text inside the body*/
+/*Body shows a unique background color with a unique text color for the text inside the body tag*/
 body {
     background-color: #d9dcd6;
     color: #ffffff;
 }
-/*Styles the header bar at the top of the page*/
+/*Styles the header bar at the top of the site*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ h1 {
 h1 .seo {
     color: #d9dcd6;
 }
-/*Positions the display for the items inside the div*/
+/*Positions the display margins, padding, font family, and font size for the the navigation menu*/
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -34,36 +34,36 @@ nav {
 /*Styles the unordered list in the header*/
 ul {
     list-style-type: none;
-/*Styles the list items inside the unordered list under the navigation tag inside the header*/
 }
+/*Styles the list items*/
 li {
     display: inline-block;
     margin-left: 25px;
 }
-/*Styles the hyperlinks in the header*/
+/*Styles the hyperlinks references*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/*Positions the main image on the page*/
+/*Positions the main image on the page which is inside of the figure semantic*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
 }
-/*Ensures the image within the .hero container fills the available space while maintaining its aspect ratio */
+/*Ensures the image within the .hero container fills the available space while maintaining its aspect ratio*/
 .hero img {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
-/*Positions the main content*/
+/*Positions the main content sections by creating a space for the article semantics*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/*Positions the display for the content held in the search engine optimization display*/
+/*Positions the display for the content held in the .content display*/
 .search-engine-optimization,.online-reputation-management,.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -71,11 +71,11 @@ a {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
 }
-/*Positions the search engine optimization image*/
+/*Positions the images inside the main articles*/
 .search-engine-optimization img,.online-reputation-management img,.social-media-marketing img {
     max-height: 200px;
 }
-/*Styles the search engine optimization text content*/
+/*Styles the header tags which are above the text content in the main articles*/
 .search-engine-optimization h2,.online-reputation-management h2,.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -94,7 +94,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-/*Positions the benefits display*/
+/*Positions the benefits sections which are aside*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -105,16 +105,16 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Positions the benefit lead text box*/
+/*Positions the benefit section text boxes*/
 .benefit-lead,.benefit-brand,.benefit-cost {
     margin-bottom: 32px;
 }
-/*Positions the benefit lead text content*/
+/*Positions the benefit content header tags*/
 .benefit-lead h3,.benefit-brand h3,.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*Styles the benefit lead image*/
+/*Styles the benefit content aside tagged images*/
 .benefit-lead img,.benefit-brand img,.benefit-cost img {
     display: block;
     margin: 10px auto;

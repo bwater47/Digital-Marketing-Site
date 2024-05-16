@@ -1,5 +1,5 @@
 # Horiseon
-Week 1 Challenge
+Digital Marketing refactoring project.
 
 ## Description
 You can click on the contents inside of the header, and it will take you to the menu that you chose. The header is located at the top of the website, and it is reactive to the cursor. You can see information about SEO, Online Reputation Management, and Social Media Marketing. There is also a benefits display on the right of the site for more information.
@@ -8,7 +8,7 @@ You can click on the contents inside of the header, and it will take you to the 
 Shields.io
 
 ## Visuals
-Link: <a href="https://bwater47.github.io/Week-1-Challenge/">Live Page</a>
+Link: <a href="https://bwater47.github.io/Digital-Marketing-Site/">Live Page</a>
 Screenshot: 
 <img src="assets/images/Live-Page-1.png" alt="live page 1">
 <img src="assets/images/Live-Page-2.png" alt="live page 2">
